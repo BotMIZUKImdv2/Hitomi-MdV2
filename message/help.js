@@ -153,6 +153,6 @@ _*${ucapanWaktu} ${pushname !== undefined ? pushname : 'Kak'} 👋*_
  ${setting.sb} ${prefix}addprem
  ${setting.sb} ${prefix}delprem
 
-\`\`\`${setting.botName} Powered Nodejs\`\`\`
+\`\`\`${setting.botName} Power Coli\`\`\`
 `
 }
